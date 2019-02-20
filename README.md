@@ -1,3 +1,7 @@
+# Julius Frost
+I am a fast learner and skilled in applying machine learning to solve problems. I am Co-President of BU's Machine Intelligence Community and co-founded a national honors society chapter UPE.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/juliusfrost/juliusfrost.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
