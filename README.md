@@ -7,13 +7,16 @@ I am a fast learner and skilled in applying machine learning to solve problems. 
   <a href="https://github.com/juliusfrost">
     <img src="icons/Github.png" width="100" title="Julius Frost Github Profile"> 
   </a>
-  <a href="https://github.com/juliusfrost">
+  
+  <a href="https://www.linkedin.com/in/juliusfrost/">
     <img src="icons/LinkedIn.png" width="100" title="Julius Frost Linkedin Profile"> 
   </a>
-  <a href="https://github.com/juliusfrost">
+  
+  <a href="https://www.facebook.com/">
     <img src="icons/Facebook.png" width="100" title="Julius Frost Facebook Profile"> 
   </a>
-  <a href="https://github.com/juliusfrost">
+  
+  <a href="https://twitter.com/Julius_Frost">
     <img src="icons/Twitter.png" width="100" title="Julius Frost Twitter Profile"> 
   </a>
 </p>
