@@ -3,7 +3,7 @@ I am a fast learner and skilled in applying machine learning to solve problems. 
 
 ## Profiles
 
-[![Github](https://github.com/juliusfrost/juliusfrost.github.io/blob/master/icons/iconfinder_social_media_social_media_logo_github_2993771.svg?sanitize=true)](https://github.com/juliusfrost/)
+[![Github](./icons/Github.png)](https://github.com/juliusfrost/)
 
 [Linkedin](https://www.linkedin.com/in/juliusfrost/ "Julius Frost Linkedin Profile")
 
