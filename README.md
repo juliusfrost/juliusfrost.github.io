@@ -3,14 +3,23 @@ I am a fast learner and skilled in applying machine learning to solve problems. 
 
 ## Profiles
 
-[![Github](./icons/Github.png)](https://github.com/juliusfrost/)
-
-[Linkedin](https://www.linkedin.com/in/juliusfrost/ "Julius Frost Linkedin Profile")
-
-[Facebook](https://www.facebook.com/JuliusFrost0 "Julius Frost Facebook Profile")
-
-[Twitter](https://twitter.com/Julius_Frost "Julius Frost Twitter Profile")
+<p align="center">
+  <a href="https://github.com/juliusfrost">
+    <img src="https://github.com/juliusfrost/juliusfrost.github.io/blob/master/icons/Github.png" width="100" title="Julius Frost Github Profile"> 
+  </a>
+  <a href="https://github.com/juliusfrost">
+    <img src="https://github.com/juliusfrost/juliusfrost.github.io/blob/master/icons/LinkedIn.png" width="100" title="Julius Frost Linkedin Profile"> 
+  </a>
+  <a href="https://github.com/juliusfrost">
+    <img src="https://github.com/juliusfrost/juliusfrost.github.io/blob/master/icons/Facebook.png" width="100" title="Julius Frost Facebook Profile"> 
+  </a>
+  <a href="https://github.com/juliusfrost">
+    <img src="https://github.com/juliusfrost/juliusfrost.github.io/blob/master/icons/Twitter.png" width="100" title="Julius Frost Twitter Profile"> 
+  </a>
+</p>
 
 ## Resume
 
 [Resume](https://docs.google.com/document/d/1H7k8g9ms0jF8SuNRmB_uAb5LnApnFTRKMHQsTPFiCWU/edit?usp=sharing "Julius Frost Resume")
+
+
