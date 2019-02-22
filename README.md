@@ -5,16 +5,16 @@ I am a fast learner and skilled in applying machine learning to solve problems. 
 
 <p align="center">
   <a href="https://github.com/juliusfrost">
-    <img src="https://github.com/juliusfrost/juliusfrost.github.io/blob/master/icons/Github.png" width="100" title="Julius Frost Github Profile"> 
+    <img src="icons/Github.png" width="100" title="Julius Frost Github Profile"> 
   </a>
   <a href="https://github.com/juliusfrost">
-    <img src="https://github.com/juliusfrost/juliusfrost.github.io/blob/master/icons/LinkedIn.png" width="100" title="Julius Frost Linkedin Profile"> 
+    <img src="icons/LinkedIn.png" width="100" title="Julius Frost Linkedin Profile"> 
   </a>
   <a href="https://github.com/juliusfrost">
-    <img src="https://github.com/juliusfrost/juliusfrost.github.io/blob/master/icons/Facebook.png" width="100" title="Julius Frost Facebook Profile"> 
+    <img src="icons/Facebook.png" width="100" title="Julius Frost Facebook Profile"> 
   </a>
   <a href="https://github.com/juliusfrost">
-    <img src="https://github.com/juliusfrost/juliusfrost.github.io/blob/master/icons/Twitter.png" width="100" title="Julius Frost Twitter Profile"> 
+    <img src="icons/Twitter.png" width="100" title="Julius Frost Twitter Profile"> 
   </a>
 </p>
 
