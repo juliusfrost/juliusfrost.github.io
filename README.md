@@ -1,5 +1,7 @@
 ## About me
-I am a fast learner and skilled in applying machine learning to solve problems. I am Co-President of BU's Machine Intelligence Community and co-founded a national honors society chapter UPE.
+Aspiring Researcher in AI. My research interests are in Deep Learning and Reinforcement Learning.
+I love anything to do with agents learning by sensing their environment.
+I am passionate about solutions to the impact of AI on Inequality. 
 
 ## Profiles
 
