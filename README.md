@@ -3,6 +3,10 @@ Aspiring Researcher in AI. My research interests are in Deep Learning and Reinfo
 I love anything to do with agents learning by sensing their environment.
 I am passionate about solutions to the impact of AI on Inequality. 
 
+## Publications
+
+- [Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning](https://arxiv.org/abs/2006.10598)
+
 ## Profiles
 
 <p align="center">
