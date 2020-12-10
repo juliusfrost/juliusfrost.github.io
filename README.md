@@ -45,9 +45,9 @@ I would love to work full time at a company tackling hard problems with AI!
 ### Stats About My Public Contributions to Repos
 
 <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliusfrost&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=juliusfrost" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#top-languages-card">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusfrost&layout=compact&langs_count=10&show_icons=true&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliusfrost&layout=compact&langs_count=10" />
 </a>
 
