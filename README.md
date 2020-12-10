@@ -1,9 +1,7 @@
-# Julius Frost
-
 ### My Links
 
 <p>
-  <a href="https://github.com/juliusfrost"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" height=25>
+  <a href="https://github.com/juliusfrost"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white" height=25></a> 
   <a href="https://www.twitter.com/Julius_Frost"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/juliusfrost"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="mailto:juliustfrost@gmail.com"><img src="https://img.shields.io/badge/-juliustfrost@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" height=25></a>
