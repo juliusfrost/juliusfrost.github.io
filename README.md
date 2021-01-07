@@ -12,7 +12,7 @@
 ### About me
 
 I'm graduating May 2021 with a Computer Science Bachelors and Masters at Boston University.  
-I do research in Deep Learning and Reinforcement and I'm really interested in the impact of AI on society.  
+I do research in Deep Learning and Reinforcement Learning and I'm really interested in the impact of AI on society.  
 I would love to work full time at a company tackling hard problems with AI!
 
 ### Publications
